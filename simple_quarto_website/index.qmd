@@ -1,0 +1,63 @@
+---
+title: "Sam J Moon"
+bibliography: reference.bib
+---
+
+**Table of Contents**
+
+::: {layout-ncol="2"}
+My Summer Trip to Japan
+
+1
+
+Quarto Practice
+
+2
+
+Random Stuff
+
+3
+:::
+
+# 1
+Before the school year started, I went on a 10-day trip to Japan. Here are some pictures from my trip!
+
+![Green tea ice cream with chestnut paste](ice-cream.png)
+
+![Miffy Cafe in Kyoto, Japan](miffy-cafe.png)
+
+# 2
+I am practicing Quarto here and I'm learning a lot!
+
+* inline math equation: $2 + 2 = 4$
+* non inline math equation: $$6 * 6 = 36$$
+
+I am creating a footnote[^1].
+
+>"That's hot" - Paris Hilton
+
+Practicing my mermaid diagram:
+```{mermaid}
+graph TD;
+  A-->B;
+  B-->C;
+  C-->D;
+```
+
+<br>
+<br>
+<br>
+"Data mining, also called Knowledge Discovery in Databases (KDD), is the field of discovering novel and potentially useful information from large amounts of data." (see @baker2010data)
+
+# 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7eFpRf4tac?si=hmgvx_Tw9aATbXcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+| Restaurant   | Rating |
+| -------------|--------|
+| McDonalds    | 10/5   |
+| Olive Garden | -1/5   |
+| TGI Friday's |  2/5   |
+
+
+[^1]: this is just for practice

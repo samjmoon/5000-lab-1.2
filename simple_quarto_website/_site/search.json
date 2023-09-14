@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Header 1\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur adipiscing elit ut aliquam purus. Lacinia at quis risus sed vulputate odio ut enim blandit. Dui vivamus arcu felis bibendum ut tristique. Malesuada fames ac turpis egestas maecenas pharetra convallis. Urna molestie at elementum eu facilisis sed odio morbi quis. A diam sollicitudin tempor id eu nisl nunc. Vitae aliquet nec ullamcorper sit amet risus nullam. Egestas pretium aenean pharetra magna. Euismod in pellentesque massa placerat duis ultricies lacus sed.\n\n\nHeader 2\nMy plot:\n\nimport matplotlib.pyplot as plt\n\nx = [5,10,15]\n\ny = [3,6,9]\n  \nplt.plot(x, y)\n  \nplt.xlabel('stress')\n\nplt.ylabel('anxiety')\n  \nplt.title('Emotions')\n  \nplt.show()\n\n\n\n\n\n\nHeader 3\nFelis donec et odio pellentesque diam volutpat commodo sed egestas. Gravida in fermentum et sollicitudin. Et leo duis ut diam. Mauris nunc congue nisi vitae suscipit. Magna sit amet purus gravida quis blandit turpis cursus. Dui sapien eget mi proin sed libero. Risus commodo viverra maecenas accumsan lacus vel. Viverra aliquet eget sit amet tellus cras adipiscing. Nunc mattis enim ut tellus elementum sagittis vitae et. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam J Moon",
+    "section": "",
+    "text": "Table of Contents"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Sam J Moon",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nthis is just for practice↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#charlie",
+    "href": "slides/slides.html#charlie",
+    "title": "Sam’s Slides",
+    "section": "Charlie",
+    "text": "Charlie\n\nCharlie is a morkie"
+  },
+  {
+    "objectID": "slides/slides.html#rocky",
+    "href": "slides/slides.html#rocky",
+    "title": "Sam’s Slides",
+    "section": "Rocky",
+    "text": "Rocky\n\nRocky is a pitbull mix"
+  },
+  {
+    "objectID": "slides/slides.html#plot",
+    "href": "slides/slides.html#plot",
+    "title": "Sam’s Slides",
+    "section": "Plot",
+    "text": "Plot\n“We predict how the dog acts in the visual world in re- sponse to various situations.” (see Ehsani et al. (2018))\n\n\n\n\n\n\n\nEhsani, Kiana, Hessam Bagherinezhad, Joseph Redmon, Roozbeh Mottaghi, and Ali Farhadi. 2018. “Who Let the Dogs Out? Modeling Dog Behavior from Visual Data.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 4051–60."
+  }
+]
